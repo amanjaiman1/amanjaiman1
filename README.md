@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @amanjaiman1
-- 👀 I’m interested in web designing and app/game deveopment
-- 🌱 I’m currently learning kotlin and c++
+- 👀 I’m interested in web designing and Graphic Designing.
+- 🌱 I’m currently learning NodeJs and Java
 - 💞️ I’m looking to collaborate on 
 - 📫 How to reach me -amanjaiman890@gmail.com
 
