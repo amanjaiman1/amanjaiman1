@@ -97,7 +97,7 @@
   &emsp;
     <a href="#"><img alt="Git" src="https://img.icons8.com/color/56/git.png"></a>
   &emsp;
-    <a href="#"><img alt="GitHub" src="https://img.icons8.com/sf-black/56/github.png"></a>
+    <a href="#"><img alt="GitHub" src="https://img.icons8.com/nolan/56/github.png"></a>
   &emsp;
     <a href="#"><img alt="Google Sheets" src="https://img.icons8.com/color/56/google-sheets.png"></a>
   &emsp;
@@ -105,7 +105,7 @@
   &emsp;
     <a href="#"><img alt="Geekf For Geeks" src="https://img.icons8.com/color/56/GeeksforGeeks.png"></a>
   &emsp;
-    <a href="#"><img src="https://img.icons8.com/ios/56/mysql-logo.png"/></a>
+    <a href="#"><img src="https://img.icons8.com/fluency/56/mysql-logo.png"/></a>
 </p>
 
  ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
@@ -113,13 +113,13 @@
  
 <p align="center">
   &emsp;
-    <a href="#"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=plastic&logo=visual-studio-code&logoColor=white"></a>
+    <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/56/visual-studio-code-2019.png"></a>
   &emsp;
-    <a href="#"><img alt="JetBrain" src="https://img.shields.io/badge/jetbrains-%23000000.svg?style=plastic&logo=jetbrains&logoColor=white" /></a>
+    <a href="#"><img alt="JetBrain" src="https://img.icons8.com/color/56/jetbrains.png" /></a>
   &emsp;
-    <a href="#"><img alt="Atom" src="https://img.shields.io/badge/atom-%2366595C.svg?&style=plastic&logo=atom&logoColor=white" /></a>
+    <a href="#"><img alt="Atom" src="https://img.icons8.com/emoji/56/atom-symbol-emoji.png" /></a>
   &emsp;
-    <a href="#"><img alt="Eclipse" src="https://img.shields.io/badge/eclipse%20ide-%232C2255.svg?&style=plastic&logo=eclipse%20ide&logoColor=white" /></a>
+    <a href="#"><img alt="Eclipse" src="https://img.icons8.com/officel/56/java-eclipse.png" /></a>
 </p>
 
 
@@ -127,11 +127,11 @@
  <br>
 <p align="center">
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=plastic&logo=linux&logoColor=black"></a>
+    <a href="#"><img src="https://img.icons8.com/color/56/linux.png"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=plastic&logo=ubuntu&logoColor=white"></a>
+    <a href="#"><img src="https://img.icons8.com/color/56/ubuntu.png"></a>
   &emsp;
-    <a href="#"><img src="https://img.shields.io/badge/Windows-0078D6?style=plastic&logo=windows&logoColor=white"></a>
+    <a href="#"><img src="https://img.icons8.com/color/56/windows-10.png"></a>
 </p>
 
 <br> 
