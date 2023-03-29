@@ -153,8 +153,8 @@
 ----
 	
 <p align="center">
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-	    <img alt="7oSkaaa's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanjaiman1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
+    <a href="https://github.com/amanjaiman1/github-readme-stats">
+	    <img alt="amanjaiman1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanjaiman1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
 	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjaiman1&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
 <br/>
 
@@ -166,7 +166,7 @@
 
 ----
 	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanjaiman1&theme=github	)](https://github.com/7oSkaaa/github-readme-activity-graph)
+[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanjaiman1&theme=github	)](https://github.com/amanjaiman1/github-readme-activity-graph)
 
  
 </details>
@@ -175,16 +175,15 @@
 
 ----
 	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="7oskaaa" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="amanjaiman1" /></a> </p>
 
-[![@7oskaa's Holopin board](https://holopin.io/api/user/board?user=7oskaa)](https://holopin.io/@7oskaa)
 	
 
 
 </br></br>
 	
-## 🐍 A Snake Eating my Contributions Graph
+<!-- ## 🐍 A Snake Eating my Contributions Graph
 	
 <p align = "center">
 	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p>
+</p> -->
