@@ -1,17 +1,11 @@
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 <h1 align="center">𝓗𝓲𝓲 , 𝓘'𝓶 𝓐𝓶𝓪𝓷 𝓙𝓪𝓲𝓶𝓪𝓷 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&color=%ffffff&size=25&weight=800&center=true&vCenter=true&width=600&height=100&lines=Software+Engineer;Computer+Science+Student;at+Lovely+Professional+University;Full+Stack+Developer;Always+learning+new+things"></a>
 </p>
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-
-<br>
-
-	
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 70px></picture> <h1>About Me</h1>
-
-<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
-
-<br><br>
 
 - :school: I am a `3rd Year Student` at [Lovely Professional University](https://www.lpu.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
@@ -20,79 +14,46 @@
 - :nerd_face: Always `keen to learn and develop new things`.
 - :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](http://lnkiy.in/Aman_jaiman_Resume).
 - :boom: You can visit [MY WEBSITE](https://amanjaiman.me).
+  <br>
+<p align="center"><b>Profile Views</b></p>
+<p align="center"><img src="https://profile-counter.glitch.me/%7Bamanjaiman1%7D/count.svg" alt="visitor badge"/></p>
 <br>
 
 
-
-## <picture> <img src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Connect-with-me.gif?raw=true" width="100px"> </picture>
-
+## 🌐 Socials: <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-jaiman-b4a36b199/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="adam pithewan" height="30" width="40" /></a> &nbsp;&nbsp;
+      src="https://img.icons8.com/?size=512&id=13930&format=png"
+      alt="adam pithewan" height="50" width="50" /></a> &nbsp;&nbsp;
   <a href="https://www.facebook.com/aman.jaiman.94" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
-      alt="adam pithen wala" height="30" width="40" /></a>&nbsp;&nbsp;
+      src="https://img.icons8.com/?size=512&id=uLWV5A9vXIPu&format=png"
+      alt="adam pithen wala" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/are.jaiman_sahab/" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-      alt="_._.adam._" height="30" width="40" /></a>&nbsp;&nbsp;
+      src="https://img.icons8.com/?size=512&id=119026&format=png"
+      alt="_._.adam._" height="50" width="50" /></a>&nbsp;&nbsp;
   <a href="https://www.hackerrank.com/amanjaiman890" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-      alt="adampithewan" height="30" width="40" /></a>&nbsp;&nbsp;
+      src="https://img.icons8.com/?size=512&id=OUPsEPLKIebZ&format=png"
+      alt="adampithewan" height="50" width="50" /></a>&nbsp;&nbsp;
  <a href="https://twitter.com/AMANJAIMAN6" target="blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
-      alt="adampithewan" height="30" width="40" /></a>
-</p>
+      src="https://img.icons8.com/?size=512&id=13963&format=png"
+      alt="adampithewan" height="50" width="50" /></a>
+</p> <br>
 
+<img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="50px">&nbsp;&nbsp;***Languages & Tools I Know...***
+<p align="left"> 
 
-
-## 🛠️ My Skills
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Programming_Languages.gif?raw=true" width = 50px>  </picture>
-
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.cprogramming.com/" target="_blank"
-    rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg"
-      alt="c" width="40" height="40" /> </a>
-  &emsp;
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40"
-      height="40" /> </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
-</p>
-
-### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Front_End.gif?raw=true" width = 50px>  </picture> Frontend Development
-<br>
-<p align="center"> 
-  &emsp; 
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg"
-      alt="html5" width="40" height="40" />
-  </a> 
-  &emsp;
-  <a href="https://www.w3schools.com/css/" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3"
-      width="40" height="40" /> </a>
-  &emsp;
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg"
-      alt="react" width="40" height="40" /> </a>
-  &emsp;
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"
-    rel="noreferrer"> <img
-      src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-      alt="javascript" width="40" height="40" /> </a>
-</p>
-
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Software_Tools.gif?raw=true" width = 50px>  </picture> Software & Tools
- <br>
+<code><img height="50" src="https://img.icons8.com/?size=512&id=FRRACRKRsw2s&format=png">
+<img height="50" src="https://img.icons8.com/?size=512&id=108784&format=png">
+<img height="50" src="https://img.icons8.com/?size=512&id=8g6WJkjf0vaP&format=png">
+.<img height="50" src="https://img.icons8.com/?size=512&id=hsPbhkOH4FMe&format=png">
+.<img height="50" src="https://img.icons8.com/?size=512&id=rY6agKizO9eb&format=png">
+.<img height="50" src="https://img.icons8.com/?size=512&id=7gdY5qNXaKC0&format=png">
+.<img height="50" src="https://img.icons8.com/?size=512&id=2ZOaTclOqD4q&format=png">
+.<img height="45" src="https://global.discourse-cdn.com/standard17/uploads/threejs/optimized/2X/e/e4f86d2200d2d35c30f7b1494e96b9595ebc2751_2_744x750.png">
+	</code><br><br>
+### <code>  Software & Tools </code>
  
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Git" src="https://img.icons8.com/color/56/git.png"></a>
@@ -108,9 +69,9 @@
     <a href="#"><img src="https://img.icons8.com/fluency/56/mysql-logo.png"/></a>
 </p>
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/IDEs.gif?raw=true" width = 50px>  </picture> IDEs
- <br>
+### <code> IDEs </code>
  
+
 <p align="center">
   &emsp;
     <a href="#"><img alt="Visual Studio Code" src="https://img.icons8.com/fluency/56/visual-studio-code-2019.png"></a>
@@ -123,8 +84,7 @@
 </p>
 
 
- ### <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/OS.gif?raw=true" width = 50px>  </picture> Operating Systems
- <br>
+### <code> Operating Systems </code>
 <p align="center">
   &emsp;
     <a href="#"><img src="https://img.icons8.com/color/56/linux.png"></a>
@@ -137,53 +97,40 @@
 <br> 
 
 ---
+<div align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com?user=amanjaiman1&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=50% height=100%/>
+<img src="https://github-readme-stats.vercel.app/api?username=amanjaiman1&show_icons=true&count_private=true&theme=react"  width=47.4% height=100%/>
 
-## <picture> <img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Statistics.gif?raw=true" width = 50px>  </picture> Github Stats
+<!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjaiman1&theme=react&layout=compact" width="400px" alt="Language stats image" -->
+<br> <br>
+<img alt="Activity Graph" src="https://img.icons8.com/?size=52&id=16931&format=png" />
+ <br>
 
-<details><summary><h3> 🔥 Streak Stats</h3></summary>
+<img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&no-bg=true&theme=onedark&no-frame=true&title=Commits,MultiLanguage,PullRequest,Repositories,Followers,Stars&column=6" alt="SurajPratap10"  width=200% height=100%/>
+<hr>
+<br>
+<h3>Productivity Stats: </h3>
+<table>
+  <tr>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanjaiman1&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
-----	
-
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=amanjaiman1&theme=tokyonight_duo" alt="amanjaiman1" /></p>
-
-</details>
-  
-<details><summary><h3>💻 GitHub Profile Stats</h3></summary>
-
-----
-	
-<p align="center">
-    <a href="https://github.com/amanjaiman1/github-readme-stats">
-	    <img alt="amanjaiman1's Github Stats" src="https://github-readme-stats.vercel.app/api?username=amanjaiman1&show_icons=true&count_private=true&locale=en&theme=tokyonight&layout=compact" height="230px"/></a>
-	  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=amanjaiman1&langs_count=10&show_icons=true&locale=en&theme=tokyonight" alt="7oSkaaa" height="230px"/>
-<br/>
-
-  <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
-  </p>
-</details>
-
-<details><summary><h3>⚡ Recent GitHub Activity</h3></summary>
-
-----
-	
-[![7oSkaa's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=amanjaiman1&theme=github	)](https://github.com/amanjaiman1/github-readme-activity-graph)
-
- 
-</details>
-
-<details><summary> <h3> :trophy: Git profile Trophies </h3></summary>
-
-----
-	
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amanjaiman1&layout=compact&theme=tokyonight&column=4&margin-w=15&margin-h=15" alt="amanjaiman1" /></a> </p>
-
-	
+</table>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-</br></br>
-	
-<!-- ## 🐍 A Snake Eating my Contributions Graph
-	
-<p align = "center">
-	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
-</p> -->
+[<h2>My Portfolio</h2>](https://amanjaiman.me)
+
+<img src="https://user-images.githubusercontent.com/77478827/240489081-374cf001-b485-42af-ae4f-3851b0f8433f.png"  display=block width=100% height=auto  alt="1" >
+
+<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<p align="right">
+  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
+
+-----
+Credits: [AMAN JAIMAN](https://github.com/amanjaiman1)
+
+
+Last Edited on: 13/05/23 
