@@ -104,6 +104,7 @@
 <img src="https://github-readme-streak-stats.herokuapp.com?user=amanjaiman1&theme=react&date_format=M%20j%5B%2C%20Y%5D&fire=DDC846&currStreakNum=DDDDDD" alt="streak image" width=50% height=100%/>
 <img src="https://github-readme-stats.vercel.app/api?username=amanjaiman1&show_icons=true&count_private=true&theme=react"  width=47.4% height=100%/>
 
+[![amanjaiman1's GitHub | Stats](https://stats.quine.sh/amanjaiman1/github?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanjaiman1)
 <!--img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanjaiman1&theme=react&layout=compact" width="400px" alt="Language stats image" -->
 <br> <br>
 <img alt="Activity Graph" src="https://img.icons8.com/?size=52&id=16931&format=png" />
@@ -118,6 +119,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=amanjaiman1&theme=monokai"  display=block width=100% height=auto  alt="1" >
 
 </table>
+
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
