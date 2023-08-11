@@ -20,6 +20,9 @@
 <br>
 
 
+[![amanjaiman1's GitHub | Languages Over Time](https://stats.quine.sh/amanjaiman1/languages-over-time?theme=dark)](https://quine.sh?utm_source=widgets&utm_campaign=amanjaiman1)
+
+
 ## 🌐 Socials: <br>
 <p align="center">
   <a href="https://www.linkedin.com/in/aman-jaiman-b4a36b199/" target="blank"><img align="center"
