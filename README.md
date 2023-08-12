@@ -123,19 +123,8 @@
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-[<h2>My Portfolio</h2>](https://amanjaiman.me)
 
 <img src="https://user-images.githubusercontent.com/77478827/240489081-374cf001-b485-42af-ae4f-3851b0f8433f.png"  display=block width=100% height=auto  alt="1" >
 
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-<p align="right">
-  <img align=center width=100% src="https://readme-typing-svg.herokuapp.com?font=Sora&color=%2336BCF7&size=35&center=true&vCenter=true&width=600%&lines=THANK+YOU;FOR+VISITING+MY+PROFILE;SAYONARA😄" />
-
------
-Credits: [AMAN JAIMAN](https://github.com/amanjaiman1)
-
-
-Last Edited on: 13/05/23 
