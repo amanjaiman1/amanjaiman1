@@ -7,7 +7,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 
-- :school: I am a `3rd Year Student` at [Lovely Professional University](https://www.lpu.in/).
+- :school: I am a `4th Year Student` at [Lovely Professional University](https://www.lpu.in/).
 - :technologist: I love using Software as a solution for every `Problem`.
 - :computer: I am a competitive programmer at `GeeksForGeeks`, `Leetcode`, `Codechef`, `Google Contests`.
 - :student: I’m currently learning `Computer Science` and `Software Engineering`.
