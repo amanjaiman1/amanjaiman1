@@ -2,10 +2,16 @@
   Profile README for github.com/amanjaiman1
   Artwork in assets/ is generated from scripts/content.py by scripts/build_assets.py.
   The 3D calendar and the snake are rebuilt daily by .github/workflows/profile-visuals.yml.
+
+  Only the buttons, the project cards and the template-demo links are meant to be clickable.
+  GitHub links every bare <img> to its own source file; wrapping an image in <picture>
+  stops that, so decorative images below sit inside <picture> on purpose.
+  The resume links through jsDelivr because it serves the PDF as application/pdf
+  (it opens in the browser); raw.githubusercontent.com would download it instead.
 -->
 
 <p align="center">
-  <img src="assets/hero.svg" width="100%" alt="Aman Jaiman: Founder, Product Manager and Frontend Engineer, building an independent product in stealth since April 2025">
+  <picture><img src="assets/hero.svg" width="100%" alt="Aman Jaiman: Founder, Product Manager and Frontend Engineer, building an independent product in stealth since April 2025"></picture>
 </p>
 
 <p align="center">
@@ -13,23 +19,23 @@
   <a href="https://www.linkedin.com/in/aman-jaiman/"><img src="assets/btn-linkedin.svg" height="46" alt="LinkedIn"></a>
   <a href="https://x.com/AMANJAIMAN6"><img src="assets/btn-x.svg" height="46" alt="X / Twitter"></a>
   <a href="https://leetcode.com/u/amanjaiman890/"><img src="assets/btn-leetcode.svg" height="46" alt="LeetCode"></a>
-  <a href="https://github.com/amanjaiman1/Resume/blob/main/Aman_Jaiman_Resume_Template.pdf"><img src="assets/btn-resume.svg" height="46" alt="Resume"></a>
+  <a href="https://cdn.jsdelivr.net/gh/amanjaiman1/Resume@main/Aman_Jaiman_Resume_Template.pdf"><img src="assets/btn-resume.svg" height="46" alt="Resume (PDF)"></a>
 </p>
 
 <p align="center">
-  <img src="assets/whoami.svg" width="100%" alt="whoami: Aman Jaiman, Founder, Product Manager and Frontend Engineer. Building an independent product venture in stealth since April 2025, owning discovery, roadmap, UX, engineering and release. Before that: Frontend Engineer at Optus EdTech (2024 to 2025), Java and DSA mentor at CoderHouse, B.Tech CSE from Lovely Professional University (2020 to 2024), NCC cadet.">
+  <picture><img src="assets/whoami.svg" width="100%" alt="whoami: Aman Jaiman, Founder, Product Manager and Frontend Engineer. Building an independent product venture in stealth since April 2025, owning discovery, roadmap, UX, engineering and release. Before that: Frontend Engineer at Optus EdTech (2024 to 2025), Java and DSA mentor at CoderHouse, B.Tech CSE from Lovely Professional University (2020 to 2024), NCC cadet."></picture>
 </p>
 
 <p align="center">
-  <img src="assets/operating-loop.svg" width="100%" alt="How I take a product from idea to live: discover, define, design, build, ship, then measure, learn and iterate">
+  <picture><img src="assets/operating-loop.svg" width="100%" alt="How I take a product from idea to live: discover, define, design, build, ship, then measure, learn and iterate"></picture>
 </p>
 
 <p align="center">
-  <img src="assets/figures.svg" width="100%" alt="By the numbers: 2,000+ Sort and Visualize users in its first 2 months, 50+ countries, 6 websites live, 17,059 answer pages searchable, 300+ students mentored, 500+ LeetCode problems, Google Kick Start global rank 1542, 230+ GitHub stars">
+  <picture><img src="assets/figures.svg" width="100%" alt="By the numbers: 2,000+ Sort and Visualize users in its first 2 months, 50+ countries, 6 websites live, 17,059 answer pages searchable, 300+ students mentored, 500+ LeetCode problems, Google Kick Start global rank 1542, 230+ GitHub stars"></picture>
 </p>
 
 <p align="center">
-  <img src="assets/shipped.svg" width="100%" alt="Live in production: websites that are up and working today">
+  <picture><img src="assets/shipped.svg" width="100%" alt="Live in production: websites that are up and working today"></picture>
 </p>
 
 <p align="center">
@@ -54,19 +60,19 @@
 </p>
 
 <p align="center">
-  <img src="assets/stack.svg" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Java, C++, Python, HTML, CSS. Frontend: React, Next.js, Astro, Tailwind CSS, Three.js, Redux, Vite. Backend and data: Node.js, Express, Supabase, Prisma, PostgreSQL, Firebase, MySQL. Ship and design: Git, GitHub, GitHub Actions, Vercel, Figma, Linux, VS Code.">
+  <picture><img src="assets/stack.svg" width="100%" alt="Stack. Languages: TypeScript, JavaScript, Java, C++, Python, HTML, CSS. Frontend: React, Next.js, Astro, Tailwind CSS, Three.js, Redux, Vite. Backend and data: Node.js, Express, Supabase, Prisma, PostgreSQL, Firebase, MySQL. Ship and design: Git, GitHub, GitHub Actions, Vercel, Figma, Linux, VS Code."></picture>
 </p>
 
 <p align="center">
-  <img src="assets/journey.svg" width="100%" alt="Journey: B.Tech CSE at LPU 2020 to 2024; Google Kick Start Round H rank 1542 in Oct 2022; Product_3D in Mar 2023; 5th at Punjab Hackathon in Nov 2023; NCC Best in Drill and Shooting in Jan 2024; Frontend Engineer at Optus EdTech from Apr 2024; Java and DSA mentor at CoderHouse from Jun 2024; founded a stealth product venture in Apr 2025; launched Sort and Visualize in Jun 2026; 6 sites live now">
+  <picture><img src="assets/journey.svg" width="100%" alt="Journey: B.Tech CSE at LPU 2020 to 2024; Google Kick Start Round H rank 1542 in Oct 2022; Product_3D in Mar 2023; 5th at Punjab Hackathon in Nov 2023; NCC Best in Drill and Shooting in Jan 2024; Frontend Engineer at Optus EdTech from Apr 2024; Java and DSA mentor at CoderHouse from Jun 2024; founded a stealth product venture in Apr 2025; launched Sort and Visualize in Jun 2026; 6 sites live now"></picture>
 </p>
 
 <p align="center">
-  <img src="assets/live-signal.svg" width="100%" alt="Live signal: straight from GitHub, refreshed every day">
+  <picture><img src="assets/live-signal.svg" width="100%" alt="Live signal: straight from GitHub, refreshed every day"></picture>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/amanjaiman1/amanjaiman1/output/profile-3d.svg" width="100%" alt="3D contribution calendar with contribution totals, stars and languages">
+  <picture><img src="https://raw.githubusercontent.com/amanjaiman1/amanjaiman1/output/profile-3d.svg" width="100%" alt="3D contribution calendar with contribution totals, stars and languages"></picture>
 </p>
 
 <p align="center">
@@ -78,9 +84,9 @@
 </p>
 
 <p align="center">
-  <img src="assets/footer.svg" width="100%" alt="Building in stealth. Shipping in public.">
+  <picture><img src="assets/footer.svg" width="100%" alt="Building in stealth. Shipping in public."></picture>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=amanjaiman1&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Profile views">
+  <picture><img src="https://komarev.com/ghpvc/?username=amanjaiman1&label=PROFILE%20VIEWS&color=22d3ee&style=flat-square" alt="Profile views"></picture>
 </p>
