@@ -1,0 +1,87 @@
+# Rebuilds the live GitHub visuals shown on the profile README:
+#   profile-3d.svg     3D contribution calendar (yoshi389111/github-profile-3d-contrib)
+#   snake-*.svg        snake eating the contribution grid (Platane/snk)
+# The files are force-pushed to the `output` branch so main's history stays clean.
+# The README's own artwork (assets/*.svg) is built locally: python3 scripts/build_assets.py
+#
+# GitHub pauses scheduled workflows after 60 days without repository activity.
+# If the images stop updating, re-enable this workflow from the Actions tab.
+name: Profile visuals
+
+on:
+  schedule:
+    - cron: "40 19 * * *" # 01:10 IST, once a day
+  workflow_dispatch:
+  push:
+    branches-ignore: [output]
+    paths:
+      - ".github/workflows/profile-visuals.yml"
+      - ".github/profile-3d-settings.json"
+
+concurrency:
+  group: profile-visuals
+  cancel-in-progress: true
+
+permissions: {}
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    permissions:
+      contents: read # third-party actions only ever get a read-only token
+    steps:
+      - uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+
+      - name: 3D contribution calendar
+        uses: yoshi389111/github-profile-3d-contrib@7d95e7d4cdc028dd1e1cbd957d65f35efb12ae39 # v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          SETTING_JSON: .github/profile-3d-settings.json
+
+      - name: Contribution snake
+        uses: Platane/snk/svg-only@d8f6715049803e982ee5ff501b6b9b7d5deeb09b # v3.5.0
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            dist/snake-dark.svg?palette=github-dark&color_snake=#F472B6&color_dots=#161B22,#0C4A6E,#0E7490,#22D3EE,#A5F3FC
+            dist/snake-light.svg?palette=github-light&color_snake=#DB2777&color_dots=#EBEDF0,#A5F3FC,#22D3EE,#0891B2,#155E75
+
+      - name: Collect
+        run: |
+          mkdir -p dist
+          cp profile-3d-contrib/profile-3d.svg dist/
+          ls -la dist
+
+      - uses: actions/upload-artifact@cf430e030ddbb5b0abf93d22962f4752f3646cd9 # v7.0.2
+        with:
+          name: profile-visuals
+          path: dist
+          retention-days: 1
+
+  publish:
+    needs: generate
+    runs-on: ubuntu-latest
+    timeout-minutes: 5
+    permissions:
+      contents: write # only this job, which runs no third-party code, can push
+    steps:
+      - uses: actions/download-artifact@9000827ccba6bdab643e8b6fd33ac0654aef8333 # v8.0.2
+        with:
+          name: profile-visuals
+          path: dist
+
+      - name: Push to the output branch
+        working-directory: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git init -q -b output
+          git add -A
+          git -c user.name="github-actions[bot]" \
+              -c user.email="41898282+github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "Refresh profile visuals"
+          git push -q -f "https://x-access-token:${GITHUB_TOKEN}@github.com/${GITHUB_REPOSITORY}.git" output
