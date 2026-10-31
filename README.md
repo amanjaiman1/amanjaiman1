@@ -70,10 +70,6 @@
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=amanjaiman1&background=070A13&border=1E293B&stroke=1E293B&ring=22D3EE&fire=F472B6&currStreakNum=E6EDF7&sideNums=E6EDF7&currStreakLabel=22D3EE&sideLabels=94A3B8&dates=64748B&border_radius=22&card_width=1000&card_height=200" width="100%" alt="GitHub contribution streak">
-</p>
-
-<p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/amanjaiman1/amanjaiman1/output/snake-dark.svg">
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/amanjaiman1/amanjaiman1/output/snake-light.svg">

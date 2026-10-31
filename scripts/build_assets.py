@@ -1030,7 +1030,7 @@ def main() -> None:
                build_section_bar("shipped.svg", *C.SHIPPED_TITLE, "Live websites, each card links to the running site"),
                *(build_card(p, i, CARD_ACCENTS.get(p["key"], CYAN)) for i, p in enumerate(C.PROJECTS)),
                build_stack(), build_journey(),
-               build_section_bar("live-signal.svg", *C.LIVE_TITLE, "3D contribution calendar, streak and snake, rebuilt daily"),
+               build_section_bar("live-signal.svg", *C.LIVE_TITLE, "3D contribution calendar and snake, rebuilt daily"),
                build_footer()]
     for path in written:
         print(f"{path.stat().st_size / 1024:7.1f} KB  {path.relative_to(ROOT)}")
