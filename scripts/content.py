@@ -45,7 +45,8 @@ LINKS = {
     "linkedin": "https://www.linkedin.com/in/aman-jaiman/",
     "x": "https://x.com/AMANJAIMAN6",
     "leetcode": "https://leetcode.com/u/amanjaiman890/",
-    "resume": "https://github.com/amanjaiman1/Resume/blob/main/Aman_Jaiman_Resume_Template.pdf",
+    # jsDelivr serves the PDF as application/pdf, so it opens in the browser instead of GitHub's file viewer
+    "resume": "https://cdn.jsdelivr.net/gh/amanjaiman1/Resume@main/Aman_Jaiman_Resume_Template.pdf",
 }
 
 # The whoami terminal. Each line is ("cmd", text) or ("out", [(text, colour-name), ...]).
